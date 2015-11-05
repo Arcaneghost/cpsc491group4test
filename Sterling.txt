@@ -1,1 +1,2 @@
+Change
 This is what the new file will be.
