@@ -1,11 +1,2 @@
-<<<<Hello World<<< HEAD
-hi there 
-=======
-adding stuff!!! WHAT HAPPENS?!??!
->>>>>>> 94b0c68d36d1b2e2e744c0877fb97ccfe01c9735
-hi how are you
-now the file has changed a bit
-
-I CHANGED IT FIRST ERIc
-Sterling Changed it second
-C
+Change
+This is what the new file will be.
